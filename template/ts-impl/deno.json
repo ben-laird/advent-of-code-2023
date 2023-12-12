@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "run_1": "deno run src/bin/part1.ts",
+    "run_2": "deno run src/bin/part2.ts",
+
+    "dev_1": "deno run --watch src/bin/part1.ts",
+    "dev_2": "deno run --watch src/bin/part2.ts",
+
+    "test_1": "deno test src/bin/part1.ts",
+    "test_2": "deno test src/bin/part2.ts",
+    "test_src": "deno test src/*/**.ts"
+  }
+}

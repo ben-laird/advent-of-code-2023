@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "name": "Day 1",
+            "path": "day-01"
+        },
+        {
+            "name": "Day 1 / Rust",
+            "path": "day-01/rust-impl"
+        },
+        {
+            "name": "Day 1 / TS",
+            "path": "day-01/ts-impl"
+        },
+        {
+            "name": "~",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "deno.enable": true,
+        "deno.lint": true,
+        "deno.unstable": false
+    }
+}
